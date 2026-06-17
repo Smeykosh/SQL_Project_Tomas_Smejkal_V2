@@ -312,6 +312,7 @@ Popis sloupců tabulky **economies**:
 						- year		(rok měření )
 						- gdp		(hrubý domácí produkt - HDP za měřený rok )
 						- population
+						
 						- gini
 						- taxes
 						- fertility
@@ -323,7 +324,7 @@ Popis sloupců tabulky **economies**:
 
 *******
 
-## **Vytvoření primarní tabulky t_tomas_smejkal_project_sql_primary**
+## **Vytvoření primarní tabulky t_tomas_smejkal_project_sql_primary_V2**
 
 Pro zodpovězení výzkumných otázek č.1 - 4  budu potřebovat spojit tyto tabulky :
 																				
@@ -334,11 +335,11 @@ Pro zodpovězení výzkumných otázek č.1 - 4  budu potřebovat spojit tyto ta
 
 Výsledná tabulka obsahuje tyto sloupce:
 
-																	- price_czk
+																	- avg_price_czk ( ceny jsou již průměrovány za každý rok )
 																	- category_code
 																	- price_measured_from
 																	- price_measured_to
-																	- avg_payroll_value_czk
+																	- avg_payroll_value_czk ( mzdy průměrovány za každý rok )
 																	- payroll_year
 																	- name                            |
 																	- price_value
@@ -368,26 +369,27 @@ Při slučování byla pouze vybrána/filtrována relevantní data z tabulky **c
 	
 ## **Vytvoření sekundární tabulky t_tomas_smejkal_project_sql_secondary_final**
 
-Pro zdopovězení výzkumné otázky č.5 budu potřebovat spojit tyto tabulky:
+Pro vytvoření sekundární tabulky budu potřebovat tyto tabulky:
 
-															- t_tomas_smejkal_project_sql_primary
 															- economies
+															- countries
 
 Výsledná tabulka obsahuje tyto sloupce: 
 
-															- avg_payroll_year_price
-															- avg_payroll_year_value
-															- payroll_year
-															- country       
-															- gdp     
+															- country
+															- year
+															- gdp
+															- population    
+															- gini    
 
-Tabulky jsou spojeny přes sloupce t_tomas_smejkal_project_sql_primary.payroll_year a economies.year.
+Tabulky jsou spojeny přes sloupce economies.country = countries.country.
 
-Při slučování byla pouze vybrána/vyfiltrována relevantní data pro zopdovězení výzkumné otázky č. 5
+Při slučování byla pouze vybrána/vyfiltrována relevantní data pro období mezi lety 2006 - 2018 a evropské země:
 
-										- e.country = 'Czech Republic'
+														 - countries.continent = 'Europe'
+														 - economies.YEAR BETWEEN 2006 AND 2018
 
-**Výsledná tabulka obsahuje pouze shodné bodobí dat z let 2006 - 2018.**										
+**Výsledná tabulka obsahuje pouze shodné bodobí dat z let 2006 - 2018 stejně jako primární tabulka**										
 
 ***
 
