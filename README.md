@@ -77,7 +77,7 @@ Na svém GitHub účtu vytvořte veřejný repozitář, kam uložíte všechny i
 
 Neupravujte data v primárních tabulkách! Pokud bude potřeba transformovat hodnoty, dělejte tak až v tabulkách nebo pohledech, které si nově vytváříte.
 
-***
+*******
 
 ## **Analýza dat pro tvorbu primarní tabulky t_tomas_smejkal_project_sql_primary_V2**
 
@@ -304,7 +304,7 @@ Popis sloupců tabulky **countries**:
 						- iso2
 						- iso3
 						
-**_Poznámka - detailnějsí popis sloupců není nutný, protože pro zodpovězení výzkumných otázaek není tabulka relevantní a nebude použita_**.
+**_Poznámka - detailnějsí popis sloupců není nutný, protože pro zodpovězení výzkumných otázaek není tabulka až tak relevantní _**.
 
 Popis sloupců tabulky **economies**:
 
@@ -396,7 +396,7 @@ Při slučování byla pouze vybrána/vyfiltrována relevantní data pro období
 
 ***
 
-### Výzkumné otázky ###
+### Výzkumné otázky a jejich zodpovězení ###
 
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
