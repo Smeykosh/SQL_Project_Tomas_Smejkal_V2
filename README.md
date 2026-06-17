@@ -15,8 +15,13 @@ _(Tato verze je korigována po zpětné vazbě od hodnotitele projektu z prvníh
 
 -------------------------
 
-### Projekt: Projekt z SQL
-***Úvod do projektu***
+### Projekt z SQL ###
+
+## Úvod: ##
+
+Cílem projektu je procvičení a ověření získaných znalostí z probraných lekcí. Projekt je zaměřen na znalosti dotazovacího jazyka SQL v Postgre databazi. Dotazy a použitá databáze jsou zpracovány pomocí softwaru DBeaver. 
+
+***Úvod do projektu a jeho zadání:***
 
 Na vašem analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní občanů, jste se dohodli, že se pokusíte odpovědět na pár definovaných výzkumných otázek, které adresují dostupnost základních potravin široké veřejnosti. Kolegové již vydefinovali základní otázky, na které se pokusí odpovědět a poskytnout tuto informaci tiskovému oddělení. Toto oddělení bude výsledky prezentovat na následující konferenci zaměřené na tuto oblast.
 
