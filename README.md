@@ -79,7 +79,7 @@ Neupravujte data v primárních tabulkách! Pokud bude potřeba transformovat ho
 
 ***
 
-## **Analýza dat pro tvorbu primarní tabulky t_tomas_smejkal_project_sql_primary**
+## **Analýza dat pro tvorbu primarní tabulky t_tomas_smejkal_project_sql_primary_V2**
 
 Zdroj tabulky **czechia_payroll**: https://csu.gov.cz/
 
@@ -267,7 +267,7 @@ region_code - kod regionu - uzemí
 ***Poznámka - v dokumentaci není jednoznačně uvedeno že pro celorepublikové měření je hodnota NULL.***
 
 
-## **Analýza dat pro tvorbu sekundární tabulky t_tomas_smejkal_project_sql_secondary_final**
+## **Analýza dat pro tvorbu sekundární tabulky t_tomas_smejkal_project_sql_secondary_final_V2**
 
 Pro vytvoření sekundární tabulky jsou k dispozici data ze dvou tabulek: **countries** a **economies**.
 
@@ -369,6 +369,9 @@ Při slučování byla pouze vybrána/filtrována relevantní data z tabulky **c
 	
 ## **Vytvoření sekundární tabulky t_tomas_smejkal_project_sql_secondary_final**
 
+Tabulka by měla splňovat toto zadání:
+_Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR._
+
 Pro vytvoření sekundární tabulky budu potřebovat tyto tabulky:
 
 															- economies
@@ -393,7 +396,7 @@ Při slučování byla pouze vybrána/vyfiltrována relevantní data pro období
 
 ***
 
-# Výzkumné otázky #
+### Výzkumné otázky ###
 
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
