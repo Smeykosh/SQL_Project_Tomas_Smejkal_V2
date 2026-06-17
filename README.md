@@ -3,6 +3,7 @@ Repository for ENGETO sql project _ version 2
 # SQL_Project_Tomas_Smejkal ENGETO Data academy 22_04_2025_v2
 _(Tato verze je korigována po zpětné vazbě od hodnotitele projektu z prvního odevzdání a obsahuje korekce k vzneseným námitkám )_
 
+ **Přípomínky hodnotitele:** 
  - _U primární tabulky doporučuji rovnou průměrovat ceny a mzdy za celý rok.
  - Sekundární tabulka má dle zadání obsahovat data ze všech evropských zemí
  - Dotaz k otázce 1: dotaz je velmi jednoduchý a je třeba dělat analýzu ručně. To v projektu nechceme - využij porovnání vždy s předchozím rokem, např. pomocí funkce LAG.
