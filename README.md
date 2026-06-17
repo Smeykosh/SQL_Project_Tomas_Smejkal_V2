@@ -13,6 +13,8 @@ _(Tato verze je korigována po zpětné vazbě od hodnotitele projektu z prvníh
  - Přidej úvod a závěr projektu.
  - Podívej se ještě na formátování průvodní listiny, je to trochu nepřehledné_.
 
+-------------------------
+
 ### Projekt: Projekt z SQL
 ***Úvod do projektu***
 
