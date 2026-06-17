@@ -19,7 +19,7 @@ _(Tato verze je korigována po zpětné vazbě od hodnotitele projektu z prvníh
 
 ## Úvod: ##
 
-Cílem projektu je procvičení a ověření získaných znalostí z probraných lekcí. Projekt je zaměřen na znalosti dotazovacího jazyka SQL v Postgre databazi. Dotazy a použitá databáze jsou zpracovány pomocí softwaru DBeaver. 
+Cílem projektu je procvičení a ověření získaných znalostí z probraných lekcí. Projekt je zaměřen na znalosti dotazovacího jazyka SQL v Postgre databazi. Dotazy a použitá databáze jsou zpracovány pomocí softwaru DBeaver. Poskytnuté tabulky firmou Engeto, jsou upravené datové tabulky získané z veřejně dostupných zdrojů.
 
 ***Úvod do projektu a jeho zadání:***
 
@@ -31,7 +31,7 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 
 ﻿
 
-*Datové sady, které je možné požít pro získání vhodného datového podkladu*
+***Datové sady, které je možné požít pro získání vhodného datového podkladu:***
 
 **Primární tabulky:**
 
