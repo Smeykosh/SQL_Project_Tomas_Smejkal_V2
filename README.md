@@ -1,15 +1,16 @@
 # SQL_Project_Tomas_Smejkal_V2
 Repository for ENGETO sql project _ version 2
 # SQL_Project_Tomas_Smejkal ENGETO Data academy 22_04_2025_v2
-_(Tato verze je korigována po zpětné vazbě od hodnotitele projektu z prvního odevzdání a obsahuje korekce k vzneseným námitkám
- - U primární tabulky doporučuji rovnou průměrovat ceny a mzdy za celý rok.
+_(Tato verze je korigována po zpětné vazbě od hodnotitele projektu z prvního odevzdání a obsahuje korekce k vzneseným námitkám )_
+
+ - _U primární tabulky doporučuji rovnou průměrovat ceny a mzdy za celý rok.
  - Sekundární tabulka má dle zadání obsahovat data ze všech evropských zemí
  - Dotaz k otázce 1: dotaz je velmi jednoduchý a je třeba dělat analýzu ručně. To v projektu nechceme - využij porovnání vždy s předchozím rokem, např. pomocí funkce LAG.
  - Otázka 2: Dle zadání máte porovnat ceny chleba a mléka, ne másla. Dej si zároveň pozor na formulaci odpovědi. Je opravdu možné koupit tento počet potravin zároveň?
  - Otázka 3: Odpověď není správně. Ptáme se na meziroční nárůst za celé sledované období. Opět využij funkci LAG.
  - Dotaz k odpovědi 4: Zde bych doporučila využít spíše CTE, než temporary tabulky.
  - Přidej úvod a závěr projektu.
- - Podívej se ještě na formátování průvodní listiny, je to trochu nepřehledné.
+ - Podívej se ještě na formátování průvodní listiny, je to trochu nepřehledné_.
 
 ### Projekt: Projekt z SQL
 **Úvod do projektu**
