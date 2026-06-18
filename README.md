@@ -427,12 +427,14 @@ Pro vytvoření vysledků bylo použito dvou dočasných temp tabulek a to pro v
 
 Protože srovnáváme ceny a mzdy, které jsou dostupné pouze pro Českou republiku, yla v sekundární tabulce vyfiltrována data pouze pro Českou republiku. 
 
-**_Z výsledných dat vidíme, že nejvyší růst HDP byl v letech 2007 a 2015 a to o 5,39 %. V roce 2007-2008 došlo k nárustu cena o cca 6% a růstu mezd o 7%. V roce 2015 byl růst mezd 2,6 % a cem dokonce o -1,1 %.
+**_Z výsledných dat vidíme, že nejvyší růst HDP byl v letech 2007,2015, 2017 a to o 5,39 %. V roce 2007 došlo k nárustu cena o cca 6% a růstu mezd o 7%. V roce 2015 byl růst mezd 2,6 % a růst cen dokonce zaznamenal pokles o -0,57 %. V roce 2017 však došlo k vyšším nárůstum cen ( o téměř 10 % ) i mezd ( o 6 % ). 
 Nejnižší HDP tedy pokles o -5,05% byl zaznamenán v roce 2009, který byl  prováze i poklesem cen o -7,7 %. Následné roky pak ukazují s roustoucím HDP i roustucí ceny a mzdy.
-Zdat nevyplývá, že by s extrémními růst či pokles HDP měl vliv na cenu potravin či výši mezd._**
+Z dat nevyplývá, že by extrémní růst či pokles HDP měl vliv na cenu potravin či růst mezd._**
 
 ---
 
+## Závěr: ##
+Osobně vidím, že velmi důležitou částí projektu je pochopení slovního zadání požadovaných výstupů. Proto jsem musel kontaktovat hodnotitele projektu a konzultovat některé detaily o požadovaných výstupech. Stejně tak detailní pročtení zadání. Pokud se člověk zaměřuje na správné vytvoření, snadno pak zamění Mléko za Máslo nebo nezahrne detaily jako např. že tabulka musí obsahovat "evropské" země.  Toto vidím jako důležitou a důležitou součast práce datového analytika než samotné vytvoření selectu. Projekt mě celkem bavil. A i ocenůji získaných zkušeností s formatem markddown a repozitáře Git. A doufám, že získané zkušenosti využiji někdy v nějakém zaměstnání.
 
 
 
