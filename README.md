@@ -420,7 +420,7 @@ Pro stanovení průměrné ceny je počítána jako průměrná cena všech prů
 
 Pro vytvoření vysledků bylo použito dvou dočasných temp tabulek a to pro výpočet průměrné ceny za měřený rok a průměrné mzdy za měřený rok.
 
-**_Z výsledných dat je vidět že nejvyšší procentulní nárust cen byl zaznamenán v roce 2017 a to 9,82 %, které bylo provázeno  nárůstem mezd o 6,17 % v témže roce. Nejvyšší nárůst mezd byl zaznamenán v roce 2018 a to o 7,7 %. V měřeném obodobí let 2006 - 2018 nebyl zaznamenán růst cen nebo mezd o více jak 10%. V některých letech docházelo i k mírným poklesům._**
+**_Z výsledných dat je vidět že nejvyšší procentulní nárust cen byl zaznamenán v roce 2017 a to 9,98 %, které bylo provázeno  nárůstem mezd o 6,17 % v témže roce. Nejvyšší nárůst mezd byl zaznamenán v roce 2018 a to o 7,7 %. V měřeném obodobí let 2006 - 2018 nebyl zaznamenán růst cen nebo mezd o více jak 10%. V některých letech docházelo i k mírným poklesům._**
 
 ---
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
