@@ -1,6 +1,9 @@
-# SQL_Project_Tomas_Smejkal_V2
-Repository for ENGETO sql project _ version 2
-# SQL_Project_Tomas_Smejkal ENGETO Data academy 22_04_2025_v2
+# SQL Projekt – Analýza mezd a cen potravin v České republice
+
+Autor: Tomáš Smejkal
+ENGETO Data Academy
+Datum: 22. 4. 2025
+
 _(Tato verze je korigována po zpětné vazbě od hodnotitele projektu z prvního odevzdání a obsahuje korekce k vzneseným námitkám )_
 -------------------------
 
