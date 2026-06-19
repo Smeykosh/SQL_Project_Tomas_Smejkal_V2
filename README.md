@@ -31,7 +31,9 @@
 
 # 1. Úvod:
 
-Cílem projektu je procvičení a ověření získaných znalostí z probraných lekcí. Projekt je zaměřen na znalosti dotazovacího jazyka SQL v Postgre databazi. Dotazy a použitá databáze jsou zpracovány pomocí softwaru DBeaver. Poskytnuté tabulky firmou Engeto, jsou upravené datové tabulky získané z veřejně dostupných zdrojů.
+Cílem projektu je procvičení a ověření znalostí SQL získaných během kurzu ENGETO Data Academy.
+
+Projekt byl zpracován v databázovém systému PostgreSQL za použití nástroje DBeaver. Datové sady byly poskytnuty společností ENGETO a vycházejí z veřejně dostupných dat Českého statistického úřadu.
 
 ***Úvod do projektu a jeho zadání:***
 
