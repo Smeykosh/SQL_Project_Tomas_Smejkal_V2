@@ -519,39 +519,81 @@ V roce 2018 bylo z průměrné mzdy možné zakoupit 1365 kusů chleba a nebo 16
 
 ***Shrnutí**
 
-✅ Růst cen mléka a chleba mezi sledovanými roky odpovídají přibližně růstu mezd. 
-
-
-***
----
-**3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
-
-Jako ukazatel počítáme procentuální přírustek cen potraviny v každém roce, jelikož je cena měřena několikrát za rok. 
-
-**_Z výsledných dat je vidět, že nejnížší přírůstek má měřená potravina "Kapr Živý" kdy došlo k růstu ceny mezi lety 2006 a 2018 o 0,74 %. Nejvyšší růst meyi roky 2006 - 2018 zaznamenaly brambory a to o 163 %._**
+✅ Růst cen mléka a chleba mezi sledovanými roky odpovídá růstu mezd. V roce 2018 bylo možné oproti roku 2006 koupit o 53 kg více chleba nebo o 204 více mléka.
 
 ---
-**4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 
-Pro stanovení průměrné ceny je počítána jako průměrná cena všech průměrných cen ze všech kategorií potravin. Průměrná mzda je také počítána jako průměrná mzda ze všech průměrných mezd ze všech odvětví. 
 
-Pro vytvoření vysledků bylo použito dvou dočasných temp tabulek a to pro výpočet průměrné ceny za měřený rok a průměrné mzdy za měřený rok.
+## Otázka 3. 
 
-**_Z výsledných dat je vidět že nejvyšší procentulní nárust cen byl zaznamenán v roce 2017 a to 9,98 %, které bylo provázeno  nárůstem mezd o 6,17 % v témže roce. Nejvyšší nárůst mezd byl zaznamenán v roce 2018 a to o 7,7 %. V měřeném obodobí let 2006 - 2018 nebyl zaznamenán růst cen nebo mezd o více jak 10%. V některých letech docházelo i k mírným poklesům._**
+**Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
+
+**Výskedek**
+
+Z výsledných dat je vidět, že nejnížší přírůstek má měřená potravina "Kapr Živý", kdy došlo k růstu ceny mezi lety 2006 a 2018 o 0,74 %. 
+
+Naopak mejvyšší růst mezi roky 2006 - 2018 zaznamenaly brambory a to o 163 %.
+
+**Shrnutí**
+
+✅ Nejnižší růst ceny zaznamenal kapr živý.
 
 ---
-**5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
 
-Protože srovnáváme ceny a mzdy, které jsou dostupné pouze pro Českou republiku, yla v sekundární tabulce vyfiltrována data pouze pro Českou republiku. 
+## Otázka 4 
 
-**_Z výsledných dat vidíme, že nejvyší růst HDP byl v letech 2007,2015, 2017 a to o 5,39 %. V roce 2007 došlo k nárustu cena o cca 6% a růstu mezd o 7%. V roce 2015 byl růst mezd 2,6 % a růst cen dokonce zaznamenal pokles o -0,57 %. V roce 2017 však došlo k vyšším nárůstum cen ( o téměř 10 % ) i mezd ( o 6 % ). 
+**Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
+
+**Výsledek**
+
+Z výsledných dat je vidět že nejvyšší procentulní nárust cen byl zaznamenán v roce 2017 a to 9,98 %, které bylo provázeno  nárůstem mezd o 6,17 % v témže roce. 
+
+Nejvyšší nárůst mezd byl zaznamenán v roce 2018 a to o 7,7 %. V měřeném obodobí let 2006 - 2018 nebyl zaznamenán růst cen nebo mezd o více jak 10%. 
+
+V některých letech docházelo i k mírným poklesům.
+
+**Shrnutí**
+
+❌ Ve sledovaném období nebyl zaznamenán rozdíl převyšující 10 % jak u mezd tak u cen.
+
+---
+
+## Otázka 5 
+
+**Má výška HDP vliv na změny ve mzdách a cenách potravin? 
+Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
+
+**Výsledek**
+
+> Protože srovnáváme ceny a mzdy, které jsou dostupné pouze pro Českou republiku, yla v sekundární tabulce vyfiltrována data pouze pro Českou republiku. 
+
+Z výsledných dat vidíme, že nejvyší růst HDP byl v letech 2007,2015, 2017 a to o 5,39 %. V roce 2007 došlo k nárustu cena o cca 6% a růstu mezd o 7%. 
+V roce 2015 byl růst mezd 2,6 % a růst cen dokonce zaznamenal pokles o -0,57 %. V roce 2017 však došlo k vyšším nárůstum cen ( o téměř 10 % ) i mezd ( o 6 % ). 
+
 Nejnižší HDP tedy pokles o -5,05% byl zaznamenán v roce 2009, který byl  prováze i poklesem cen o -7,7 %. Následné roky pak ukazují s roustoucím HDP i roustucí ceny a mzdy.
-Z dat nevyplývá, že by extrémní růst či pokles HDP měl vliv na cenu potravin či růst mezd._**
+Z dat nevyplývá, že by extrémní růst či pokles HDP měl vliv na cenu potravin či růst mezd.
+
+**Shrnutí**
+
+❌ Nebyla potvrzena jednoznačná závislost mezi vývojem HDP a změnou cen potravin nebo mezd.
 
 ---
 
-## Závěr: ##
-Osobně vidím, že velmi důležitou částí projektu je pochopení slovního zadání požadovaných výstupů. Proto jsem musel kontaktovat hodnotitele projektu a konzultovat některé detaily o požadovaných výstupech. Stejně tak detailní pročtení zadání. Pokud se člověk zaměřuje na správné vytvoření, snadno pak zamění Mléko za Máslo nebo nezahrne detaily jako např. že tabulka musí obsahovat "evropské" země.  Toto vidím jako důležitou a důležitou součast práce datového analytika než samotné vytvoření selectu. Projekt mě celkem bavil. A i ocenůji získaných zkušeností s formatem markddown a repozitáře Git. A doufám, že získané zkušenosti využiji někdy v nějakém zaměstnání.
+# 7. Závěr
+
+Největším přínosem projektu pro mě nebylo pouze procvičení SQL, ale především pochopení významu správné interpretace zadání.
+
+Zpětně hodnotím jako klíčové:
+
+							- správné pochopení požadavků,
+							- práci s dokumentací,
+							- návrh datového modelu,
+							- tvorbu SQL dotazů,
+							- dokumentaci projektu v Markdownu,
+							- práci s verzovacím systémem Git.
+
+Projekt mi poskytl cenné zkušenosti s PostgreSQL, GitHubem a tvorbou datově analytické dokumentace.
+
 
 
 
