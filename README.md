@@ -379,7 +379,15 @@ Pro vytvoření sekundární tabulky jsou k dispozici data ze dvou tabulek: **co
 
 *******
 
-## **Vytvoření primarní tabulky t_tomas_smejkal_project_sql_primary_V2**
+# 5.Tvorba finálních tabulek
+
+## 5.1 Primární tabulka 
+
+** Název tabulky**
+
+t_tomas_smejkal_project_sql_primary_V2
+
+**Použité tabulky**
 
 Pro zodpovězení výzkumných otázek č.1 - 4  budu potřebovat spojit tyto tabulky :
 																				
@@ -387,8 +395,7 @@ Pro zodpovězení výzkumných otázek č.1 - 4  budu potřebovat spojit tyto ta
 																- czechia_payroll
 																- czechia_price_category
 																- czechia_payroll_industry_branch
-
-Výsledná tabulka obsahuje tyto sloupce:
+**Výsledné sloupce:**
 
 																	- avg_price_czk ( ceny jsou již průměrovány za každý rok )
 																	- category_code
@@ -401,14 +408,21 @@ Výsledná tabulka obsahuje tyto sloupce:
 																	- price_unit
 																	- industry_name   
 
-__Hlavní tabulky czechia_price a payroll_year jsou spojeny přes sloupec: czechia_price.date_from a checzia_payroll.payroll_year__
-		Dodatečné tabulky: 
+**Propojení tabulek**
+
+Hlavní tabulky czechia_price a payroll_year jsou spojeny přes sloupec: czechia_price.date_from a checzia_payroll.payroll_year.
+		
+Dodatečné tabulky: 
 
 				- czechia_price_category je spojena přes sloupce czechia_price_category.code = czechia_price.category_code
 
 				- czechia_payroll_industry_branch je spojena přes sloupce czechia_payroll.industry_branch_code = czechia_payroll_industry_branch.code
 
-**Výsledná tabulka obsahuje pouze shodné bodobí dat z let 2006 - 2018.**
+**Datové období**
+
+**2006 - 2018.**
+
+**Podmínky filtrování:**
 
 Při slučování byla pouze vybrána/filtrována relevantní data z tabulky **czechia_payroll** a **czechia_price** pro zodpovězení výzkumných otázek tedy :
 
@@ -422,15 +436,20 @@ Při slučování byla pouze vybrána/filtrována relevantní data z tabulky **c
 
 						
 	
-## **Vytvoření sekundární tabulky t_tomas_smejkal_project_sql_secondary_final**
+## 5.2 Sekundární tabulka 
 
-Tabulka by měla splňovat toto zadání:
-_Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR._
+**Název tabulky**
+
+t_tomas_smejkal_project_sql_secondary_final**
+
+**Použité tabulky**
 
 Pro vytvoření sekundární tabulky budu potřebovat tyto tabulky:
 
 															- economies
 															- countries
+
+**Výsledné sloupce**
 
 Výsledná tabulka obsahuje tyto sloupce: 
 
@@ -440,16 +459,20 @@ Výsledná tabulka obsahuje tyto sloupce:
 															- population    
 															- gini    
 
+**Podmínky filtrování**
+
 Tabulky jsou spojeny přes sloupce economies.country = countries.country.
 
-Při slučování byla pouze vybrána/vyfiltrována relevantní data pro období mezi lety 2006 - 2018 a evropské země:
+Při slučování byla pouze vybrána/vyfiltrována relevantní data pro období mezi lety 2006 - 2018 a **evropské** země:
 
 														 - countries.continent = 'Europe'
 														 - economies.YEAR BETWEEN 2006 AND 2018
 
-**Výsledná tabulka obsahuje pouze shodné bodobí dat z let 2006 - 2018 stejně jako primární tabulka**										
+**Datové období**
 
-***
+**2006 - 2018**										
+
+--------------------------------------
 
 ### Výzkumné otázky a jejich zodpovězení ###
 
