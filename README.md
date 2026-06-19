@@ -507,9 +507,12 @@ Jako první a poslední porovnatelné období jsou brány roky 2006 a 2018. Jako
 
 ***Výsledek***
 
-Rok	Chléb	Mléko
-2006	1312 kg	1465 l
-2018	1365 kg	1669 l
+Rok		Chléb		Mléko
+
+2006	1312 kg		1465 l
+
+
+2018	1365 kg		1669 l
 
 Z výsledných dat je vidět, že v roce 2006 bylo možné z průměrné mzdy koupit 1312 kusů chleba nebo _1465 litrů mléka_. 
 V roce 2018 bylo z průměrné mzdy možné zakoupit 1365 kusů chleba a nebo 1669 litrů mléka.
