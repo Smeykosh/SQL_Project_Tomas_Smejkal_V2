@@ -371,9 +371,9 @@ Pro vytvoření sekundární tabulky jsou k dispozici data ze dvou tabulek: **co
 						- fertility
 						- mortaliy_under5
 
-			**Datové období**
+**Datové období**
 			
-			**1960 - 2020**
+**1960 - 2020**
 
 > Poznámka: Dokumentace nenalezena na stránkách statistického úřadu. Pro zodpovězení výzkumné otázky budou potřeba pouze prvních pět sloupců ( country, year, dgp, population, gini ).
 
