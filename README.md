@@ -26,17 +26,10 @@
 7. Závěr
 
 
-
-
-
-
-
-
-
 ----------------------
-### Projekt z SQL ###
 
-## Úvod: ##
+
+# 1. Úvod:
 
 Cílem projektu je procvičení a ověření získaných znalostí z probraných lekcí. Projekt je zaměřen na znalosti dotazovacího jazyka SQL v Postgre databazi. Dotazy a použitá databáze jsou zpracovány pomocí softwaru DBeaver. Poskytnuté tabulky firmou Engeto, jsou upravené datové tabulky získané z veřejně dostupných zdrojů.
 
