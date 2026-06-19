@@ -476,7 +476,7 @@ Při slučování byla pouze vybrána/vyfiltrována relevantní data pro období
 
 # 6. Výzkumné otázky a výsledky
 
-## Otázka 1. 
+## Otázka 1 
 
 **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
@@ -493,15 +493,33 @@ Zajímavé je i zjištění, že v oboru "Výroba a rozvod elektřiny, plynu, te
 Pokud porovnáme nárust mezd mezi roky 2006 a 2018 tak opět všechna odvětví ukazují nárůst mezd mezi těmito lety. Nejmenší nárůst dosáhlo odvětví "Administrativní a podpůrné činnosti" a to cca 6,5 tis Kč. A naopak největší nárůst mezd dosáhlo odvětví "Informační a komunikační činnosti" a to cca 21 tis. Kč.
 
 ***Shrnutí***
+
 ✅ Ve všech sledovaných odvětvích došlo mezi roky 2006–2018 k celkovému růstu mezd.
 
 ---
-**2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
+
+
+## Otázka 2 
+
+**Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 
 Jako první a poslední porovnatelné období jsou brány roky 2006 a 2018. Jako průměrná mzda je počítáta průměrná mzda ze všech období ve zkoumaném roce.
 
-**_Z výsledných dat je vidět, že v roce 2006 bylo možné z průměrné mzdy koupit 1312 kusů chleba nebo _1465 litrů mléka_. V roce 2018 bylo z průměrné mzdy možné zakoupit 1365 kusů chleba a nebo 1669 litrů mléka._**
+***Výsledek***
 
+Rok	Chléb	Mléko
+2006	1312 kg	1465 l
+2018	1365 kg	1669 l
+
+Z výsledných dat je vidět, že v roce 2006 bylo možné z průměrné mzdy koupit 1312 kusů chleba nebo _1465 litrů mléka_. 
+V roce 2018 bylo z průměrné mzdy možné zakoupit 1365 kusů chleba a nebo 1669 litrů mléka.
+
+***Shrnutí**
+
+✅ Růst cen mléka a chleba mezi sledovanými roky odpovídají přibližně růstu mezd. 
+
+
+***
 ---
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
