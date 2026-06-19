@@ -115,7 +115,7 @@ Neupravujte data v primárních tabulkách! Pokud bude potřeba transformovat ho
 
 # 4. Analýza datových sad
 
-## 4.1 Analýza dat pro tvorbu primární tabulky (t_tomas_smejkal_project_sql_primary_V2)
+## 4.1 Analýza dat pro tvorbu primární tabulky 
 
 **Tabulka** czechia_payroll**: 
 
@@ -125,7 +125,7 @@ Neupravujte data v primárních tabulkách! Pokud bude potřeba transformovat ho
 
 zdrojové datové sady : https://csu.gov.cz/docs/107508/a7309d97-c5be-4ef4-de2f-d2962e385b93/110079-22dds.htm
 
-**(opis sloupců:**
+**Popis sloupců:**
 
 id = id záznamu  unikátní identifikátor údaje Veřejné databáze ČSÚ
 
@@ -318,7 +318,7 @@ region_code - kod regionu - uzemí
 
 --------------------------------
 
-## 4.2 Analýza dat pro tvorbu sekundární tabulky (t_tomas_smejkal_project_sql_secondary_final_V2)
+## 4.2 Analýza dat pro tvorbu sekundární tabulky 
 
 Pro vytvoření sekundární tabulky jsou k dispozici data ze dvou tabulek: **countries** a **economies**.
 
@@ -379,11 +379,11 @@ Pro vytvoření sekundární tabulky jsou k dispozici data ze dvou tabulek: **co
 
 *******
 
-# 5.Tvorba finálních tabulek
+# 5. Tvorba finálních tabulek
 
 ## 5.1 Primární tabulka 
 
-** Název tabulky**
+**Název tabulky**
 
 t_tomas_smejkal_project_sql_primary_V2
 
