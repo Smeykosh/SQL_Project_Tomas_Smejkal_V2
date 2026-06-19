@@ -1,7 +1,9 @@
 # SQL Projekt – Analýza mezd a cen potravin v České republice
 
 **Autor**: Tomáš Smejkal
+
 **ENGETO Data Academy**
+
 **Datum:** 22. 4. 2025
 
 > Tato verze byla upravena na základě zpětné vazby z prvního odevzdání projektu._
