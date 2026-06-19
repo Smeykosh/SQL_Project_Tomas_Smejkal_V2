@@ -198,13 +198,21 @@ industry_branch_code - kod měřeného odvětví (kódy vyjádřené také v tab
 
 				
 
-***Období dat od roku 2000 - 2021.*** 
-***
-Zdroj tabulky **czechia_price**: https://csu.gov.cz/
+***Datové období***
 
-Technická dokumentace zdrojové datové sady : https://data.csu.gov.cz/datastat/info/SADA/CEN0101G
+***2000 - 2021.***
 
-### **Popis sloupců v tabulce czechia_price**:
+---------------
+
+***Tabulka*** czechia_price: 
+
+***Zdroj dat:*** ČSÚ ( https://csu.gov.cz/ )
+
+***Technická dokumentace***
+
+ : https://data.csu.gov.cz/datastat/info/SADA/CEN0101G
+
+**Popis sloupců:**
 
 id = id záznamu
 
@@ -302,16 +310,21 @@ region_code - kod regionu - uzemí
 				
 				- Moravskoslezský kraj [CZ080]
 
-***Období měřených dat 2006 - 2018***.
+***Datové období***
+
+***2006 - 2018***.
 				
-***Poznámka - v dokumentaci není jednoznačně uvedeno že pro celorepublikové měření je hodnota NULL.***
+> Poznámka: V dokumentaci není jednoznačně uvedeno, že pro celorepublikové měření je hodnota NULL.
 
+--------------------------------
 
-## **Analýza dat pro tvorbu sekundární tabulky t_tomas_smejkal_project_sql_secondary_final_V2**
+## 4.2 Analýza dat pro tvorbu sekundární tabulky (t_tomas_smejkal_project_sql_secondary_final_V2)
 
 Pro vytvoření sekundární tabulky jsou k dispozici data ze dvou tabulek: **countries** a **economies**.
 
-Popis sloupců tabulky **countries**:
+**Tabulka:** countries
+
+**Popis sloupců:**
 
 						- country
 						- abbreviation
@@ -344,9 +357,9 @@ Popis sloupců tabulky **countries**:
 						- iso2
 						- iso3
 						
-**_Poznámka - detailnějsí popis sloupců není nutný, protože pro zodpovězení výzkumných otázaek není tabulka až tak relevantní _**.
+> Poznámka: Detailnějsí popis sloupců není až tak nutný, protože pro zodpovězení výzkumných otázek není tabulka až tak relevantní.
 
-Popis sloupců tabulky **economies**:
+**Tabulka:**  economies
 
 						- country 	( světové státy )
 						- year		(rok měření )
@@ -358,9 +371,11 @@ Popis sloupců tabulky **economies**:
 						- fertility
 						- mortaliy_under5
 
-			**Obsahuje data z období 1960 - 2020**
+			**Datové období**
+			
+			**1960 - 2020**
 
-**_Poznámka - dokumentace nenalezena na stránkách statistického úřadu. Pro zodpovězení výzkumné otázky budou potřeba pouze první tři sloupce_**.
+> Poznámka: Dokumentace nenalezena na stránkách statistického úřadu. Pro zodpovězení výzkumné otázky budou potřeba pouze prvních pět sloupců ( country, year, dgp, population, gini ).
 
 *******
 
