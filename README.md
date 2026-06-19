@@ -60,7 +60,7 @@ jako primární přehled pro ČR.
 
 # 3. Datové zdroje
 
-***Primární tabulky:***
+## Primární tabulky:
 
 *czechia_payroll* – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
 
@@ -76,19 +76,19 @@ jako primární přehled pro ČR.
 
 *czechia_price_category* – Číselník kategorií potravin, které se vyskytují v našem přehledu.
 
-***Číselníky sdílených informací o ČR:***
+## Číselníky sdílených informací o ČR:
 
 czechia_region – Číselník krajů České republiky dle normy CZ-NUTS 2.
 czechia_district – Číselník okresů České republiky dle normy LAU.
 
-***Dodatečné tabulky:***
+## Dodatečné tabulky:
 
 countries - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace.
 
 economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 ﻿
 
-**Výzkumné otázky**
+## Výzkumné otázky:
 
 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
@@ -101,7 +101,7 @@ economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 ﻿
 
-**Výstupy z projektu**
+## Výstupy z projektu
 
 Pomozte kolegům s daným úkolem. Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná data dají získat. Tabulky pojmenujte ***t_{jmeno}_{prijmeni}_project_SQL_primary_final*** (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky) a ***t_{jmeno}_{prijmeni}_project_SQL_secondary_final (pro dodatečná data o dalších evropských státech)***.
 
@@ -113,13 +113,19 @@ Neupravujte data v primárních tabulkách! Pokud bude potřeba transformovat ho
 
 *******
 
-## **Analýza dat pro tvorbu primarní tabulky t_tomas_smejkal_project_sql_primary_V2**
+# 4. Analýza datových sad
 
-Zdroj tabulky **czechia_payroll**: https://csu.gov.cz/
+## 4.1 Analýza dat pro tvorbu primární tabulky (t_tomas_smejkal_project_sql_primary_V2)
 
-Technická dokumentace zdrojové datové sady : https://csu.gov.cz/docs/107508/a7309d97-c5be-4ef4-de2f-d2962e385b93/110079-22dds.htm
+**Tabulka** czechia_payroll**: 
 
-### **Popis sloupců v tabulce czechia_payroll**:
+**Zdroj dat** ČSÚ  ( https://csu.gov.cz/ )
+
+**Technická dokumentace:** 
+
+zdrojové datové sady : https://csu.gov.cz/docs/107508/a7309d97-c5be-4ef4-de2f-d2962e385b93/110079-22dds.htm
+
+**(opis sloupců:**
 
 id = id záznamu  unikátní identifikátor údaje Veřejné databáze ČSÚ
 
