@@ -474,11 +474,15 @@ Při slučování byla pouze vybrána/vyfiltrována relevantní data pro období
 
 --------------------------------------
 
-### Výzkumné otázky a jejich zodpovězení ###
+# 6. Výzkumné otázky a výsledky
 
-**1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
+## Otázka 1. 
 
-**_Z výsledných dat průměrných mezd seskupených dle roku měření a odvětví je vidět, že průměrná mzda ve všech odvětvích v měřených letech 2006 - 2018 stoupá._**
+**Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
+
+***Výsledek***
+
+Z výsledných dat průměrných mezd seskupených dle roku měření a odvětví je vidět, že průměrná mzda ve všech odvětvích v měřených letech 2006 - 2018 stoupá._**
 
 U některých odvětví jako například "Administrativní a podpůrné činnosti", "Činnosti v oblasti nemovitostí", "Informační a komunikační činnosti", "Peněžnictví a pojišťovnictví", "Profesní a věděcké práce", 
 
@@ -487,6 +491,9 @@ U některých odvětví jako například "Administrativní a podpůrné činnost
 Zajímavé je i zjištění, že v oboru "Výroba a rozvod elektřiny, plynu, tepla" došlo v průběhu zkoumaných let k delšímu meziročnímu poklesu mezd od roku 2012 a trval až do roku 2016. Ale v porovnání mezi roky 2008 a 2016 došlo celkovému růstu mezd v tomto období.
 
 Pokud porovnáme nárust mezd mezi roky 2006 a 2018 tak opět všechna odvětví ukazují nárůst mezd mezi těmito lety. Nejmenší nárůst dosáhlo odvětví "Administrativní a podpůrné činnosti" a to cca 6,5 tis Kč. A naopak největší nárůst mezd dosáhlo odvětví "Informační a komunikační činnosti" a to cca 21 tis. Kč.
+
+***Shrnutí***
+✅ Ve všech sledovaných odvětvích došlo mezi roky 2006–2018 k celkovému růstu mezd.
 
 ---
 **2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
