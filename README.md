@@ -528,15 +528,15 @@ V roce 2018 bylo z průměrné mzdy možné zakoupit 1365 kusů chleba a nebo 16
 
 **Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
-**Výskedek**
+**Výsledek**
 
-Z výsledných dat je vidět, že nejnížší přírůstek má měřená potravina "Kapr Živý", kdy došlo k růstu ceny mezi lety 2006 a 2018 o 0,74 %. 
+Z výsledných dat je vidět, že nejnížší přírůstek má měřená potravina "cukr krystalový", kdy došlo k průměrnému růstu ceny mezi lety 2006 a 2018 o -1,92 %. 
 
-Naopak mejvyšší růst mezi roky 2006 - 2018 zaznamenaly brambory a to o 163 %.
+Naopak mejvyšší průměrný růst mezi roky 2006 - 2018 zaznamenaly paprika a to o 7,92 %.
 
 **Shrnutí**
 
-✅ Nejnižší růst ceny zaznamenal kapr živý.
+✅ Nejnižší růst ceny zaznamenal cukr krystalový.
 
 ---
 
